@@ -69,7 +69,7 @@ This script demonstrates how the vectorized approach from the 3D case can seamle
 
 3.  **Run any of the implementation files:**
     ```bash
-    python linear_regression_10D.py
+    python GD_for_10D.py
     ```
 
 The script will generate the necessary data, train the model using gradient descent, and print the learned weights and intercept.

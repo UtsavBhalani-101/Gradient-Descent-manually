@@ -48,13 +48,9 @@ This is the foundational implementation. The model learns the optimal slope (`co
 
 The model is extended to handle data with two features. This implementation introduces the concept of a **weight vector** instead of a single coefficient, and the prediction is calculated using the **dot product**.
 
-$ \hat{y} = X \cdot W + b $
-
 ### 3. Generalized Multiple Linear Regression (10D)
 
 This script demonstrates how the vectorized approach from the 3D case can seamlessly handle any number of features. By implementing it for a 10-dimensional dataset (9 features + 1 target), we show how the same logic scales without needing to manually handle each coefficient. The gradient calculation is fully vectorized for efficiency.
-
-$ \nabla_W J = \frac{2}{N} X^T (\hat{y} - y) $
 
 ---
 

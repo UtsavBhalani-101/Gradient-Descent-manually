@@ -59,7 +59,7 @@ This script demonstrates how the vectorized approach from the 3D case can seamle
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/UtsavBhalani-101/Gradient-Descent-manually.git](https://github.com/UtsavBhalani-101/Gradient-Descent-manually.git)
-    cd your-repo-name
+    cd Gradient-Descent-manually
     ```
 
 2.  **Install the dependencies:**

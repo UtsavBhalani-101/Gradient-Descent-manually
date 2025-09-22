@@ -1,6 +1,5 @@
 # Implementing Gradient Descent from Scratch
 
-![Gradient Descent Visualization](https://i.imgur.com/vFz2D4i.gif)
 
 This repository is a practical, hands-on guide to implementing the gradient descent optimization algorithm from scratch for linear regression models. The goal is to demonstrate how the algorithm scales and adapts as the dimensionality of the data increases, starting from a simple 2D dataset and moving up to a 10D dataset.
 
